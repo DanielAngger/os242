@@ -1,3 +1,6 @@
+REV01: 4 September 2024 11:11
+START: 28 September 2024 11:00
+
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
