@@ -14,3 +14,4 @@ permalink: LINKS/
 [Linux Crash Course (2 hours)](https://www.youtube.com/watch?v=6WatcfENsOU&pp=ygUSbGludXggY3Jhc2ggY291cnNl) -- Linux Crash Course (2 hours)!!!!  
 [Memory Allocation in C!!!](https://www.youtube.com/watch?v=udfbq4M2Kfc&pp=ygUWbWVtb3J5IGFsbG9jYXRpb24gaW4gYw%3D%3D) -- How Do C Allocate Memory?  
 [DOCUSAURUS!!!!](https://docusaurus.io) -- Docusaurus Documentation!  
+[What is Linux From Scratch???](https://www.linuxfromscratch.org) -- Linux From Scratch???  
