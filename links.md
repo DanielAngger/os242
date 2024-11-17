@@ -15,3 +15,4 @@ permalink: LINKS/
 [Memory Allocation in C!!!](https://www.youtube.com/watch?v=udfbq4M2Kfc&pp=ygUWbWVtb3J5IGFsbG9jYXRpb24gaW4gYw%3D%3D) -- How Do C Allocate Memory?  
 [DOCUSAURUS!!!!](https://docusaurus.io) -- Docusaurus Documentation!  
 [What is Linux From Scratch???](https://www.linuxfromscratch.org) -- Linux From Scratch???  
+[This Kernotex Guy Is Really Helpful For LFS Construction](https://www.youtube.com/@Kernotex) -- Subscribe Kernotex!!!  
