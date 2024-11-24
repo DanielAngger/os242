@@ -16,3 +16,4 @@ permalink: LINKS/
 [DOCUSAURUS!!!!](https://docusaurus.io) -- Docusaurus Documentation!  
 [What is Linux From Scratch???](https://www.linuxfromscratch.org) -- Linux From Scratch???  
 [This Kernotex Guy Is Really Helpful For LFS Construction](https://www.youtube.com/@Kernotex) -- Subscribe Kernotex!!!  
+[Linux From Scratch?! BEYOND!!!](https://www.linuxfromscratch.org/blfs/view/stable/) -- Continue The Linux From Scratch!  
